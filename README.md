@@ -1,5 +1,5 @@
-# Sphere-GouraudShader
-基于MFC 光栅化图形学 辐射度算法
+# Sphere-PhongShader
+基于MFC 光栅化图形学 Phong明暗处理算法
 
 运行效果：
 
